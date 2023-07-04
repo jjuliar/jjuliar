@@ -11,8 +11,8 @@
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jjuliar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjuliar" height="30" width="40" /></a>
-<a href="https://instagram.com/saintsilvane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saintsilvane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julia-junqueira-111383161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjuliar" height="30" width="40" /></a>
+<a href="https://instagram.com/jjjjul.ia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saintsilvane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">languages and tools:</h3>
