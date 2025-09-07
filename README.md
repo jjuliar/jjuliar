@@ -1,13 +1,15 @@
 <h1 align="center">hey, i'm júlia</h1>
-<h3 align="center">datascience and deeplearning scientific researcher</h3>
+<h3 align="center">datascience and deeplearning researcher</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjuliar&label=Profile%20views&color=0e75b6&style=flat" alt="jjuliar" /> </p>
 
-- 🔭 i’m currently voluntering on **GASPLN**
+- 🔭 i’m currently voluntering on **GASPLN** and **HUB2IA**
 
-- 🌱 i’m currently learning **python**
+- 🌱 currently improving my studies in python
 
-- 👨‍💻 graduating in computer science bachelor in [UFPEL](UFPEL)
+- 👨‍💻 computer science bachelor at [UFPEL](UFPEL)
+
+- 👨‍💻 phd candidate at [UFRGS](UFRGS)
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
