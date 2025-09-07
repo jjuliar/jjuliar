@@ -7,9 +7,9 @@
 
 - 🌱 currently improving my studies in python
 
-- 👨‍💻 computer science bachelor at [UFPEL](UFPEL)
+- 👨‍💻 computer science bachelor at UFPEL
 
-- 👨‍💻 phd candidate at [UFRGS](UFRGS)
+- 👨‍💻 phd candidate at UFRGS
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
